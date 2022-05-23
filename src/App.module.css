@@ -12,6 +12,7 @@
 }
 
 .card {
+  min-width: 300px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -20,7 +21,9 @@
   padding: 1rem;
 }
 
-.card:nth-of-type(1)  { background: #F4BFBF; }
-.card:nth-of-type(2)  { background: #9ADCFF; }
+.card:nth-of-type(1)  { background: #FFEEEE; }
+.card:nth-of-type(2)  { background: #B8FFF9; }
 .card:nth-of-type(3)  { background: #F9F3EE; }
 .card:nth-of-type(4)  { background: #CCF3EE; }
+.card:nth-of-type(5)  { background: #FAF0D7; }
+.card:nth-of-type(6)  { background: #C8F2EF; }
